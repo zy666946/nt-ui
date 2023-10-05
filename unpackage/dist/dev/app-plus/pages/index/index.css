@@ -1,0 +1,23 @@
+/* 水平间距 */
+/* 水平间距 */
+.nt-view-area[data-v-8d7f3d00] {
+  background-color: #eaedf2;
+  box-shadow: -0.09375rem -0.09375rem 5px #fff, 0.15625rem 0.15625rem 0.9375rem #aaa;
+}
+.btn[data-v-8d7f3d00] {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn[data-v-8d7f3d00]:active {
+  box-shadow: inset 3px 3px 3px #ccc, inset -3px -3px 3px #fff;
+}
+.active[data-v-8d7f3d00] {
+  box-shadow: inset 3px 3px 3px #ccc, inset -3px -3px 3px #fff;
+}
+/* 水平间距 */
+/* 水平间距 */
+.switchItem[data-v-a31ec5e3] {
+  transition: all 0.382s;
+}

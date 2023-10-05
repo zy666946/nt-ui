@@ -1,0 +1,13 @@
+{
+  "hash": "28d5963b",
+  "browserHash": "62149a8a",
+  "optimized": {
+    "vue-demi": {
+      "src": "../../node_modules/vue-demi/lib/index.mjs",
+      "file": "vue-demi.js",
+      "fileHash": "30d79b62",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
